@@ -2,10 +2,6 @@ import java.util.List;
 
 public class Zoo {
 
-  /*add a bird to the list
-feed different bird sections of the zoo
-add birds to a flying section of the zoo Uncomment tests and execute them. All test should pass.*/
-
     /**
      * Feeds different bird sections of the zoo.
      *

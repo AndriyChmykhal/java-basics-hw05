@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 abstract class Bird {
   // TODO fix class declaration
 
